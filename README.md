@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Felipe Tadeu, tenho 28 anos e sou natural de Salvador BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonada por tecnologia.  Quero me especializar em áreas como DevOps, Computação em Nuvem e Arquitetura de Software.
-
+Me chamo Felipe Tadeu, tenho 28 anos e sou natural de Salvador BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonada por tecnologia.  Quero me especializar em áreas como Developer, Web Designer 
 ---
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/950085737230004284/950433548681220206)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tadeu-webdevolpe/)
