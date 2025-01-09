@@ -1,6 +1,6 @@
 # 👾 Felipe Tadeu
 
-**`Desenvolvedor FullStack`**
+**`Web Designer & Developer `**
 
 Me chamo Felipe Tadeu, tenho 28 anos e sou natural de Salvador BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonada por tecnologia.  Quero me especializar em áreas como Developer, Web Designer 
 ---
