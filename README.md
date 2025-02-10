@@ -1,13 +1,17 @@
 # 👾 Felipe Tadeu
 
-**`Web Designer & Developer `**
+**`Desenvolvedor Full-Stack__em evolução `**
 
-Me chamo Felipe Tadeu, tenho 28 anos e sou natural de Salvador BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonada por tecnologia.  Quero me especializar em áreas como Developer, Web Designer 
+<P style="font-family: Arial, sans-serif; color: #007ACC;">Aqui, compartilho os projetos que venho desenvolvendo, aplicando na prática os conhecimentos adquiridos em tecnologias full-stack. Meu objetivo é aprimorar minhas habilidades, explorar novas soluções e contribuir para a comunidade de desenvolvedores.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira, buscando novas oportunidades na área de tecnologia. Tenho grande interesse em desenvolvimento web, arquitetura de software e boas práticas de programação.
+
+Fique à vontade para explorar meus projetos, deixar feedbacks e trocar ideias</p>
+
 ---
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/950085737230004284/950433548681220206)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tadeu-webdevolpe/)
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens / Tecnologias em desenvolvimento. 
 
 <img 
     align="left" 
@@ -125,13 +129,4 @@ Me chamo Felipe Tadeu, tenho 28 anos e sou natural de Salvador BA. Atualmente, e
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FellipeTadeu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
